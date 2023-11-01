@@ -8,7 +8,8 @@
  *         Otherwise, return 0.
  *
  * Description: This function determines if a given node is a leaf in a binary
- * tree. A leaf node is one that has no children (neither left nor right child).
+ * tree. A leaf node is one that has no children
+ * (neither left nor right child).
  */
 int binary_tree_is_leaf(const binary_tree_t *node)
 {
